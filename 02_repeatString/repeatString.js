@@ -7,7 +7,7 @@ const repeatString = function(str, num) {
     }
     return string;
     } else {
-        return "ERROR";
+        return "ERROR";         
     }
 };
 
